@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tass</string>
+    <string name="image">image</string>
+    <string name="productname">ProductName</string>
+    <string name="product_type">product type</string>
+    <string name="price">price</string>
+    <string name="tax">Tax</string>
+    <string name="todo">TODO</string>
+    <string name="post">Post</string>
+    <string name="enter_the_price">Enter the Price</string>
+    <string name="enter_the_product_name">Enter the product name</string>
+    <string name="enter_the_product_item">Enter the Product item</string>
+    <string name="enter_the_tax">Enter the tax</string>
+    <string name="add_item">Add Item</string>
+</resources>
